@@ -1,1 +1,1 @@
-FROM ghcr.io/chatgptnextwebteam/chatgpt-next-web:latest
+FROM docker.m.daocloud.io/yidadaa/chatgpt-next-web:latest
