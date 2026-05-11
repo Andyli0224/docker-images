@@ -1,1 +1,1 @@
-FROM yidadaa/chatgpt-next-web:latest
+FROM ghcr.io/chatgptnextwebteam/chatgpt-next-web:latest
